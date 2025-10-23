@@ -1,2 +1,2 @@
 # XL-Diff
-Diffusion framework for efficient and high-quality XL-MIMO channel extrapolation
+ A Unified Diffusion Framework for Multi-Domain XL-MIMO Channel Extrapolation
